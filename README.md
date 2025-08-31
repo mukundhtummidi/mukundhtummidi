@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukundh Tummidi</h1>
 <h3 align="center">Junior | Computer Science Engineering (CORE) Student | AVV'27 | Microsoft Learn Student Ambassador|</h3>
 
+- 👨‍💻 I'm a BETA Microsoft Student Ambassador
 - 🔭 I’m currently Volunteering as [Co- Lead in  MSA AVV Amaravati Community](https://mlsaavvamaravati.wixsite.com/home)
 
 - 🌱 I’m currently learning **Machine Learning**
