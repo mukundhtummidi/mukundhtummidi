@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mukundh Tummidi</h1>
-<h3 align="center">Freshman | Computer Science Engineering (CORE) Student | AVV'27 | Team Manager at Microsoft MLSA AVV AMARAVATI | French Learner |</h3>
+<h3 align="center">Junior | Computer Science Engineering (CORE) Student | AVV'27 | Microsoft Learn Student Ambassador|</h3>
 
-- 🔭 I’m currently Volunteering as [Team Manager in MLSA AVV Amaravati Community](https://mlsaavvamaravati.wixsite.com/home)
+- 🔭 I’m currently Volunteering as [Co- Lead in  MSA AVV Amaravati Community](https://mlsaavvamaravati.wixsite.com/home)
 
-- 🌱 I’m currently learning **Java Programming with OOPS**
-
-- 👯 I’m looking to collaborate on **Frontend Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my handles are available at [https://bento.me/mukundhtummidi](https://bento.me/mukundhtummidi)
 
-- 💬 Ask me about **Team Management, Frontend Development**
 
 - 📫 How to reach me **mukundhtummidi@gmail.com**
 
